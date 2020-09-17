@@ -24,7 +24,7 @@ input {
     width: 2000px;
     height: 2000px;
     border-radius: 50%;
-    background: linear-gradient(-45deg, rgb(134, 134, 133), rgb(211, 209, 209)100%);
+    background: linear-gradient(-45deg, rgb(122, 122, 122), rgb(211, 209, 209)100%);
     top: -10%;
     right: 48%;
     transform: translateY(-50%);
@@ -366,11 +366,11 @@ form.sign-up-form {
         padding: 1.5rem;
     }
     .container:before {
-        bottom: 72%;
+        bottom: 75%;
         left: 50%;
     }
     .container.sign-up-mode:before {
-        bottom: 28%;
+        bottom: 25%;
         left: 50%;
     }
 }
